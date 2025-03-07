@@ -1,6 +1,6 @@
+<img src="https://socialify.git.ci/Thandekaportiap/BirthdayCardApp/image?language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="BirthdayCardApp" width="640" height="320" />
 
-
-Installation
+<h1>BirthdayCardApp</h1>
 
 To run this application locally, follow these steps:
 
